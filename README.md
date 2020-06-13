@@ -5,7 +5,7 @@ Word clouds or tag clouds are graphical representations of word frequency that g
 
 A variety of word and tag cloud generators are freely available on the internet and the process for creating them is straightforward. Evaluators can simply import text (for example, a set of interviews) into a text box and the tool creates a graphical representation of the words. Most word cloud generators have features that allow users to change colors, font, and exclude common or similar words.
 
-Technology used:
+Technology used: 
 Python, Jupyter notebook
 
 Usage:
